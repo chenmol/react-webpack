@@ -7,6 +7,9 @@ This is a boilerplate for React Webpack project. You could use it to build your 
 - webpack
 - hot reloader
 - babel
+- sass
+- 
+
 
 
 ## Clone
