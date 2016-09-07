@@ -8,7 +8,7 @@ This is a boilerplate for React Webpack project. You could use it to build your 
 - hot reloader
 - babel
 - sass
-- 
+
 
 
 
